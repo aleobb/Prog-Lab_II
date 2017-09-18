@@ -1,0 +1,19 @@
+D:\VisualStudio\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+D:\VisualStudio\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.exe
+D:\VisualStudio\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.pdb
+D:\VisualStudio\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.exe
+D:\VisualStudio\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.pdb
+D:\VisualStudio\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\bin\Debug\Ejercicio03.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio03\obj\Debug\Ejercicio03.pdb

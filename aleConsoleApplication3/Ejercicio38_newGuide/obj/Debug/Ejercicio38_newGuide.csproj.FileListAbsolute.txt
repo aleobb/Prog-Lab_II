@@ -1,0 +1,7 @@
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\bin\Debug\Ejercicio38_newGuide.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\bin\Debug\Ejercicio38_newGuide.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\bin\Debug\Ejercicio38_newGuide.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\obj\Debug\Ejercicio38_newGuide.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\obj\Debug\Ejercicio38_newGuide.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\obj\Debug\Ejercicio38_newGuide.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio38_newGuide\obj\Debug\Ejercicio38_newGuide.pdb

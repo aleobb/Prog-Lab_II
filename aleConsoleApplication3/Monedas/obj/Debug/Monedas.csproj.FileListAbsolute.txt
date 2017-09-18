@@ -1,0 +1,5 @@
+E:\Prog-Lab II\aleConsoleApplication3\Monedas\bin\Debug\Monedas.dll
+E:\Prog-Lab II\aleConsoleApplication3\Monedas\bin\Debug\Monedas.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Monedas\obj\Debug\Monedas.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\aleConsoleApplication3\Monedas\obj\Debug\Monedas.dll
+E:\Prog-Lab II\aleConsoleApplication3\Monedas\obj\Debug\Monedas.pdb

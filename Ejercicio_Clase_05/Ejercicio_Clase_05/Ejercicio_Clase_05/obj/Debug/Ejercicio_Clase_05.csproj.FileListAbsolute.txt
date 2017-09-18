@@ -1,0 +1,2 @@
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05\Ejercicio_Clase_05\bin\Debug\Ejercicio_Clase_05.exe.config
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05\Ejercicio_Clase_05\obj\Debug\Ejercicio_Clase_05.csprojResolveAssemblyReference.cache

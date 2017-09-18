@@ -1,0 +1,11 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\bin\Debug\Ejercicio04.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\bin\Debug\Ejercicio04.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\obj\Debug\Ejercicio04.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\obj\Debug\Ejercicio04.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\bin\Debug\Ejercicio04.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\bin\Debug\Ejercicio04.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\bin\Debug\Ejercicio04.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\obj\Debug\Ejercicio04.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\obj\Debug\Ejercicio04.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio04\obj\Debug\Ejercicio04.pdb

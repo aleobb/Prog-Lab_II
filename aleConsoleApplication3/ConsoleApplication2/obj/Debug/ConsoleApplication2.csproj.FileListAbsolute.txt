@@ -1,0 +1,12 @@
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

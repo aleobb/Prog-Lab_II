@@ -1,0 +1,6 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio19\bin\Debug\Ejercicio19.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio19\bin\Debug\Ejercicio19.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio19\obj\Debug\Ejercicio19.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio19\obj\Debug\Ejercicio19.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio19\obj\Debug\Ejercicio19.pdb

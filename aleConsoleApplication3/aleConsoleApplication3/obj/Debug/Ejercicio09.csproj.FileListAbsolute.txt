@@ -1,0 +1,6 @@
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.exe
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.pdb
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\Ejercicio09.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.exe
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.pdb

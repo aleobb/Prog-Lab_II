@@ -1,0 +1,6 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20\obj\Debug\Ejercicio20.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20\bin\Debug\Ejercicio20.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20\bin\Debug\Ejercicio20.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20\bin\Debug\Ejercicio20.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20\obj\Debug\Ejercicio20.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20\obj\Debug\Ejercicio20.pdb

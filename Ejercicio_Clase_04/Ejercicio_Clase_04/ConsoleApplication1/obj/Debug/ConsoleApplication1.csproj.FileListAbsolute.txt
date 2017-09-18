@@ -1,0 +1,13 @@
+E:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Prog-Lab II\Ejercicio_Clase_04\Ejercicio_Clase_04\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

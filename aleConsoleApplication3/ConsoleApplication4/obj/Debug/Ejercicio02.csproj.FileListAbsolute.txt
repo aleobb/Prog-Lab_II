@@ -1,0 +1,11 @@
+E:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

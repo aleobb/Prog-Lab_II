@@ -1,0 +1,13 @@
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\bin\Debug\Ejercicio_Clase_05_Ej2.exe.config
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\bin\Debug\Ejercicio_Clase_05_Ej2.exe
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\bin\Debug\Ejercicio_Clase_05_Ej2.pdb
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Ejercicio_Clase_05_Ej2.exe
+E:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Ejercicio_Clase_05_Ej2.pdb
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\bin\Debug\Ejercicio_Clase_05_Ej2.exe.config
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\bin\Debug\Ejercicio_Clase_05_Ej2.exe
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\bin\Debug\Ejercicio_Clase_05_Ej2.pdb
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Ejercicio_Clase_05_Ej2.exe
+G:\Prog-Lab II\Ejercicio_Clase_05\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\Ejercicio_Clase_05_Ej2\obj\Debug\Ejercicio_Clase_05_Ej2.pdb

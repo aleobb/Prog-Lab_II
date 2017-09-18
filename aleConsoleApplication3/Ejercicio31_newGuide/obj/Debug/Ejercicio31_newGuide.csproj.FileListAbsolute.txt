@@ -1,0 +1,8 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\bin\Debug\Ejercicio31_newGuide.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\bin\Debug\Ejercicio31_newGuide.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\bin\Debug\Ejercicio31_newGuide.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\bin\Debug\Ejercicio31_newGuide.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\obj\Debug\Ejercicio31_newGuide.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\obj\Debug\Ejercicio31_newGuide.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\obj\Debug\Ejercicio31_newGuide.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio31_newGuide\obj\Debug\Ejercicio31_newGuide.pdb

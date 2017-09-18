@@ -1,0 +1,11 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\bin\Debug\Ejercicio23_newGuide.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\bin\Debug\Ejercicio23_newGuide.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\bin\Debug\Ejercicio23_newGuide.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\bin\Debug\Monedas.dll
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\bin\Debug\Monedas.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\obj\Debug\Ejercicio23_newGuide.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\obj\Debug\Ejercicio23_newGuide.Form1.resources
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\obj\Debug\Ejercicio23_newGuide.Properties.Resources.resources
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\obj\Debug\Ejercicio23_newGuide.csproj.GenerateResource.Cache
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\obj\Debug\Ejercicio23_newGuide.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio23_newGuide\obj\Debug\Ejercicio23_newGuide.pdb

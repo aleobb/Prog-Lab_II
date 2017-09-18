@@ -1,0 +1,13 @@
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VisualStudio\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\Prog-Lab II\aleConsoleApplication3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,13 @@
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\bin\Debug\Ejercicio20_newGuide.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\bin\Debug\Ejercicio20_newGuide.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\bin\Debug\Ejercicio20_newGuide.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\bin\Debug\Ejercicio20_newGuide.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\bin\Debug\Ejercicio20_newGuide.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\bin\Debug\Ejercicio20_newGuide.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio20_newGuide\obj\Debug\Ejercicio20_newGuide.csprojResolveAssemblyReference.cache

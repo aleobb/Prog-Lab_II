@@ -1,0 +1,13 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\bin\Debug\Ejercicio13.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\bin\Debug\Ejercicio13.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\bin\Debug\Ejercicio13.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\bin\Debug\Ejercicio13.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\bin\Debug\Ejercicio13.pdb
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.exe
+G:\Prog-Lab II\aleConsoleApplication3\Ejercicio13\obj\Debug\Ejercicio13.pdb

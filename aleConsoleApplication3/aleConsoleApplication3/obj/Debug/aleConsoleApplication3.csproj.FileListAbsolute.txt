@@ -1,0 +1,13 @@
+D:\VisualStudio\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.exe.config
+D:\VisualStudio\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.exe
+D:\VisualStudio\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.pdb
+D:\VisualStudio\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\VisualStudio\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.exe
+D:\VisualStudio\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.pdb
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.exe.config
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.exe
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\bin\Debug\aleConsoleApplication3.pdb
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.csprojResolveAssemblyReference.cache
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.csproj.CoreCompileInputs.cache
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.exe
+G:\Prog-Lab II\aleConsoleApplication3\aleConsoleApplication3\obj\Debug\aleConsoleApplication3.pdb

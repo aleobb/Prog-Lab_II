@@ -1,0 +1,5 @@
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio27_newGuide\bin\Debug\Ejercicio27_newGuide.exe.config
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio27_newGuide\bin\Debug\Ejercicio27_newGuide.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio27_newGuide\bin\Debug\Ejercicio27_newGuide.pdb
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio27_newGuide\obj\Debug\Ejercicio27_newGuide.exe
+E:\Prog-Lab II\aleConsoleApplication3\Ejercicio27_newGuide\obj\Debug\Ejercicio27_newGuide.pdb
