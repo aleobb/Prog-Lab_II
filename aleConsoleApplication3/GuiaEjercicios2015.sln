@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.3
+VisualStudioVersion = 15.0.26730.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio10", "aleConsoleApplication3\Ejercicio10.csproj", "{FC3136E3-0003-462A-81A6-C8B719EAEE26}"
 EndProject
@@ -56,6 +56,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio38_newGuide", "Ejercicio38_newGuide\Ejercicio38_newGuide.csproj", "{3D40D874-8590-4779-99FC-F12A6AEF5814}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio39_newGuide", "Ejercicio39_newGuide\Ejercicio39_newGuide.csproj", "{C8CE10D1-9240-4B1C-9784-B58D2FB0ED34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_IComparable", "Ejemplo_IComparable\Ejemplo_IComparable.csproj", "{CD78552D-D633-4784-BB6C-8C131774EB90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{C8CE10D1-9240-4B1C-9784-B58D2FB0ED34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8CE10D1-9240-4B1C-9784-B58D2FB0ED34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8CE10D1-9240-4B1C-9784-B58D2FB0ED34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD78552D-D633-4784-BB6C-8C131774EB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD78552D-D633-4784-BB6C-8C131774EB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD78552D-D633-4784-BB6C-8C131774EB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD78552D-D633-4784-BB6C-8C131774EB90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

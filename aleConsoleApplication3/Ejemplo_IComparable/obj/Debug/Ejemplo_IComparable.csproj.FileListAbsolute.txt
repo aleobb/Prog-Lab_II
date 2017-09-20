@@ -1,0 +1,7 @@
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\bin\Debug\Ejemplo_IComparable.exe.config
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\bin\Debug\Ejemplo_IComparable.exe
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\bin\Debug\Ejemplo_IComparable.pdb
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\obj\Debug\Ejemplo_IComparable.csprojResolveAssemblyReference.cache
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\obj\Debug\Ejemplo_IComparable.csproj.CoreCompileInputs.cache
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\obj\Debug\Ejemplo_IComparable.exe
+J:\Prog-Lab_II\aleConsoleApplication3\Ejemplo_IComparable\obj\Debug\Ejemplo_IComparable.pdb

@@ -11,7 +11,9 @@ namespace Ejercicio26
         static void Main(string[] args)
         {
             int size = 20;
-            int[] array = new int[size];
+            //int[] array = new int[size];  <= esto es igual a:
+            Array array = Array.CreateInstance(typeof(int), size);
+
             int[] sortedArray = new int[size];
             ///int[] sortedNegatives = new int[size];
             Random rnd = new Random();
@@ -22,20 +24,23 @@ namespace Ejercicio26
                 Console.Write("\n Ingrese el numero {0}: ", i+1);
                 int.TryParse( Console.ReadLine(), out array[i]);
                  */
-                array[i] = rnd.Next(-255,254);
-            }
 
-            Array.Sort(array, sortedArray);
+                //array[i] = rnd.Next(-255,254); <= esto es igual a:
+                array.SetValue(rnd.Next(-255, 254), i);
+                
+            }
+            
 
             for (int i = 0; i < size; i++)
             {
-                Console.WriteLine("El numero {0} ingresado es: {1} ", i + 1, array[i]);
-                sortedArray[i] = array[i];
+                Console.WriteLine("El numero {0} ingresado es: {1} ", i + 1, array.GetValue(i) );
+                sortedArray[i] = (int)array.GetValue(i);
                 ///sortedNegatives[i] = array[i];
             }
 
-
-            Array.Sort(array, sortedArray);
+            Console.WriteLine("");
+            //Array.Sort(array, sortedArray);
+            Array.Sort(sortedArray);
 
             for (int j=0, i = size-1; i > 0; i--, j++)
             {

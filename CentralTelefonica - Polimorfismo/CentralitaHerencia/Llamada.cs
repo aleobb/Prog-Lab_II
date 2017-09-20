@@ -54,12 +54,16 @@ namespace CentralitaHerencia
 
         public int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
-            int retorno = 0;
+        //  return llamada1.Duracion - llamada2.Duracion; <= no puedo hacer esto porque duración es double y el retorno un int
+
+            return llamada1.Duracion.CompareTo(llamada2.Duracion); // < puedo usar esto si fuera un string también
+
+        /*  int retorno = 0;
             if (llamada1.Duracion > llamada2.Duracion)
                 retorno = 1;
             if (llamada1.Duracion < llamada2.Duracion)
                 retorno = -1;
-            return retorno;
+            return retorno; */
         }
 
         public static bool operator ==(Llamada l1, Llamada l2)
