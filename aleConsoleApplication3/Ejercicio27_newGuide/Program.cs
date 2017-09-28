@@ -17,43 +17,44 @@ namespace Ejercicio27_newGuide
             List<int> listas = new List<int>();
             
             int size = 20;
-            int[] array = new int[size];
+            int[] array = new int[size]; /// Mantengo el array como auxiliar de control
             Random rnd = new Random();
             Console.WriteLine("Lista sin ordernar");
             for (int i = 0; i < size; i++) 
             {
                 array[i] = rnd.Next(-255, 254);
                 listas.Add(array[i]);
-                Console.WriteLine("El numero {0} ingresado es: {1} ", i + 1, array[i]);
+                Console.WriteLine("El numero {0,-5} ingresado es: {1,-5} (Segun array: {2,-5})", i + 1, listas[i], array[i]);
+
             }
 
             listas.Sort();
 
             Console.WriteLine("\n Lista ordernada");
-            foreach (int i in listas) 
+            for (int i=0; i<size; i++) 
             {
-                Console.WriteLine("El numero {0} ingresado es: {1} ", );
-                sortedArray[i] = array[i];
-                ///sortedNegatives[i] = array[i];
+                Array.Sort(array);
+                listas.Sort();
+                Console.WriteLine("El numero {0,-5} ingresado es: {1,-5} (Segun array: {2,-5})", i + 1, listas[i], array[i]);
+                if (listas[i] < 0)
+                    colasNeg.Enqueue(listas[i]);
+                else
+                    pilasPos.Push(listas[i]);
             }
 
+            Console.WriteLine("\n Lista negativos:");
 
-
-            List<string> palabras;
-            palabras = new List<string>();
-            // Agrego
-            palabras.Add("Hola");
-            palabras.Add("Hello");
-            palabras.Add("Olá");
-            palabras.Add("Ciao");
-            // Quito
-            palabras.Remove("Hello");
-            // Recorro y muestro
-            foreach (string palabra in palabras)
+            foreach (int n in colasNeg)
+            //while(colasNeg.Count >0)
             {
-                Console.WriteLine(palabra);
+                Console.WriteLine("El numero ingresado es: {0,-5} ", n);// colasNeg.Dequeue());
             }
 
+            Console.WriteLine("\n Lista positivos n:");
+            foreach (int n in pilasPos)
+            {
+                Console.WriteLine("El numero ingresado es: {0,-5} ", n);// pilasPos.Pop());
+            }
             Console.WriteLine("\n--Fin--");
             Console.ReadKey();
 

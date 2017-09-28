@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio10", "aleConsoleApplication3\Ejercicio10.csproj", "{FC3136E3-0003-462A-81A6-C8B719EAEE26}"
 EndProject
@@ -58,6 +58,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio39_newGuide", "Ejercicio39_newGuide\Ejercicio39_newGuide.csproj", "{C8CE10D1-9240-4B1C-9784-B58D2FB0ED34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejemplo_IComparable", "Ejemplo_IComparable\Ejemplo_IComparable.csproj", "{CD78552D-D633-4784-BB6C-8C131774EB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "z_Cod de Prueba", "z_Cod de Prueba\z_Cod de Prueba.csproj", "{CEF52E4E-F6AD-46A1-8F8B-67C1539F333D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{CD78552D-D633-4784-BB6C-8C131774EB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD78552D-D633-4784-BB6C-8C131774EB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD78552D-D633-4784-BB6C-8C131774EB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF52E4E-F6AD-46A1-8F8B-67C1539F333D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF52E4E-F6AD-46A1-8F8B-67C1539F333D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF52E4E-F6AD-46A1-8F8B-67C1539F333D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF52E4E-F6AD-46A1-8F8B-67C1539F333D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

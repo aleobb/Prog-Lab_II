@@ -13,11 +13,11 @@ namespace CentralitaHerencia
 
         Franja _franjaHoraria;
 
-        public Provincial(Franja miFranja, Llamada llamada) : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
-        { this._franjaHoraria = miFranja; }
+        public Provincial(Franja miFranja, Llamada llamada) : this(llamada.NroOrigen, miFranja, llamada.Duracion, llamada.NroDestino)
+        {  }
 
-        public Provincial(string origen, Franja miFranja, float duracion, string destino) : this(miFranja, new Llamada(duracion, destino, origen) )
-        { }
+        public Provincial(string origen, Franja miFranja, float duracion, string destino) : base(duracion,destino,origen)
+        { this._franjaHoraria = miFranja; }
 
         public override float CostoLlamada
         {

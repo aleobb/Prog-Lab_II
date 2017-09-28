@@ -10,3 +10,10 @@ G:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\Cen
 G:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
 G:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
 G:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb

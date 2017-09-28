@@ -1,0 +1,6 @@
+G:\Prog-Lab_II\aleConsoleApplication3\z_Cod de Prueba\bin\Debug\z_Cod de Prueba.exe.config
+G:\Prog-Lab_II\aleConsoleApplication3\z_Cod de Prueba\bin\Debug\z_Cod de Prueba.exe
+G:\Prog-Lab_II\aleConsoleApplication3\z_Cod de Prueba\bin\Debug\z_Cod de Prueba.pdb
+G:\Prog-Lab_II\aleConsoleApplication3\z_Cod de Prueba\obj\Debug\z_Cod de Prueba.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\aleConsoleApplication3\z_Cod de Prueba\obj\Debug\z_Cod de Prueba.exe
+G:\Prog-Lab_II\aleConsoleApplication3\z_Cod de Prueba\obj\Debug\z_Cod de Prueba.pdb
