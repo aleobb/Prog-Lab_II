@@ -30,12 +30,12 @@ namespace Entidades_2017
             }
         }
 
-        public override sealed string Mostrar() ///// hay que sacar el sealed!?!?!??!?!?!?!
+        public override string Mostrar() ///// hay que sacar el sealed!?!?!??!?!?!?!
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("SNACKS");
-            sb.AppendLine(this.Mostrar());
+            sb.AppendLine(base.Mostrar());
             sb.AppendFormat("CALORIAS : {0}", this.CantidadCalorias);
             sb.AppendLine("");
             sb.AppendLine("---------------------");

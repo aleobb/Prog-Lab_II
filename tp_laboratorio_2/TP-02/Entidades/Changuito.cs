@@ -61,8 +61,8 @@ namespace Entidades_2017
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles", c._productos.Count, c._espacioDisponible);
-           /* sb.AppendLine("");
+            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n", c._productos.Count, c._espacioDisponible);
+           
             foreach (Producto v in c._productos)
             {
                 switch (tipo)
@@ -81,7 +81,7 @@ namespace Entidades_2017
                         break;
                 }
             }
-            */
+            
             return sb.ToString();
         }
         #endregion
