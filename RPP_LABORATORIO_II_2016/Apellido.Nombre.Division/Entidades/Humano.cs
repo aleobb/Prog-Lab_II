@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class Humano:Animal
+    public class Humano:Animal
     {
         string _nombre;
         string _apellido;
@@ -36,7 +36,7 @@ namespace Entidades
         public static bool operator == (Humano h1, Humano h2)
         { return h1._apellido == h2._apellido && h1._nombre == h2._nombre; }
 
-        public static bool operator !=(Humano h1, Humano h2)
+        public static bool operator != (Humano h1, Humano h2)
         { return !(h1 == h2); }
     }
 }

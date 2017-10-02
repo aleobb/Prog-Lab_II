@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    abstract class Animal
+    abstract public class Animal
     {
         protected int _cantidadPatas;
         protected static Random _distanciaRecorrida;

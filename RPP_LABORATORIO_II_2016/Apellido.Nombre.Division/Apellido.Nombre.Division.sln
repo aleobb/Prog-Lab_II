@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{CD04A30D-145A-48EC-8669-C94FE9E142C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apellido.Nombre.Division", "Apellido.Nombre.Division\Apellido.Nombre.Division.csproj", "{9493BDED-0421-4964-9705-B386FF006249}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +17,15 @@ Global
 		{CD04A30D-145A-48EC-8669-C94FE9E142C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD04A30D-145A-48EC-8669-C94FE9E142C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD04A30D-145A-48EC-8669-C94FE9E142C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9493BDED-0421-4964-9705-B386FF006249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9493BDED-0421-4964-9705-B386FF006249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9493BDED-0421-4964-9705-B386FF006249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9493BDED-0421-4964-9705-B386FF006249}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B0613D-53D9-486C-8EF4-E66656367242}
 	EndGlobalSection
 EndGlobal
