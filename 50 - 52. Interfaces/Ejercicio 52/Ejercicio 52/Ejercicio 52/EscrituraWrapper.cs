@@ -8,8 +8,8 @@ namespace Ejercicio_52
 {
     public class EscrituraWrapper
     {
-        ConsoleColor color;
-        string texto;
+        public ConsoleColor color;
+        public string texto;
 
         public EscrituraWrapper(string texto, ConsoleColor color)
         {

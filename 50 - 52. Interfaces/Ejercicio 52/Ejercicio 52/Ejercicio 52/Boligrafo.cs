@@ -41,7 +41,11 @@ namespace Ejercicio_52
 
         public EscrituraWrapper Escribir(string texto)
         {
-            return 
+            this.tinta -= texto.Length * .3f;
+            if (this.tinta < 0)
+                this.tinta = 0;
+
+            return new EscrituraWrapper(texto, this.Color);
         }
 
         public bool Recargar(int unidades)
@@ -52,7 +56,9 @@ namespace Ejercicio_52
 
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder sb = new StringBuilder("Boligrafo: ");
+            sb.AppendLine("color: " + this.Color + "| nivel de tinta: " + this.UnidadesDeEscritura);
+            return sb.ToString();
         }
 
     }
