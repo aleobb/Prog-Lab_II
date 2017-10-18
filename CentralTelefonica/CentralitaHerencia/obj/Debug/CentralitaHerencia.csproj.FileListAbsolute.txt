@@ -1,8 +1,0 @@
-E:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csproj.CoreCompileInputs.cache
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
-G:\Prog-Lab II\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb

@@ -1,0 +1,3 @@
+https://github.com/mauricioCerizza/Programacion_02/blob/master/Ejercicios/RPP%20Lab%20II/Entidades/Carrera.cs
+
+https://github.com/DeveloperAlejandroGallo/02-Programacion-Y-Laboratorio-II/blob/master/Practica/20161201_RPP/20161201_RPP/Carrera.cs
