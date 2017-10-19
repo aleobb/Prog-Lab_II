@@ -1,0 +1,15 @@
+E:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.exe.config
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.exe.config
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.exe
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.pdb
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.exe
+G:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.pdb
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.exe.config
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.exe
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\bin\Debug\Entidades.pdb
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.exe
+K:\Prog-Lab_II\RPP_LABORATORIO_II_2016\Apellido.Nombre.Division\Entidades\obj\Debug\Entidades.pdb

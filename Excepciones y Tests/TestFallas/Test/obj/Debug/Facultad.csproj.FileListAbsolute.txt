@@ -1,0 +1,10 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\Test\obj\Debug\Test.pdb
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\Test\bin\Debug\Test.dll
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\Test\bin\Debug\Test.pdb
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\Test\obj\Debug\Facultad.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\Test\obj\Debug\Test.dll
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\Test\obj\Debug\Test.pdb

@@ -15,8 +15,7 @@ namespace Interfaces
 
         public V Leer()
         {
-            Convert.ChangeType()
-            return Convert.ChangeType("Objeto Leído", typeof(V));
+            return (V)Convert.ChangeType("Objeto Leído", typeof(V));
         }
     }
 }

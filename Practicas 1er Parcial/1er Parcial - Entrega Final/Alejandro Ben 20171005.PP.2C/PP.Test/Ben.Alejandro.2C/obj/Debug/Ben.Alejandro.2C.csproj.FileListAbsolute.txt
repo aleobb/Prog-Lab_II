@@ -1,0 +1,15 @@
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Ben.Alejandro.2C.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\Ben.Alejandro.2C\bin\Debug\Apellido.Nombre.Div.dll
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\Ben.Alejandro.2C\bin\Debug\Apellido.Nombre.Div.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Apellido.Nombre.Div.dll
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Apellido.Nombre.Div.pdb
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Ben.Alejandro.2C.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Apellido.Nombre.Div.dll
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Apellido.Nombre.Div.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\bin\Debug\Apellido.Nombre.Div.dll
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\bin\Debug\Apellido.Nombre.Div.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Ben.Alejandro.2C.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Apellido.Nombre.Div.dll
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\Ben.Alejandro.2C\obj\Debug\Apellido.Nombre.Div.pdb

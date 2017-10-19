@@ -1,0 +1,10 @@
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.exe.config
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.exe
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.pdb
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.exe
+G:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.pdb
+E:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\bin\Debug\Ejercicio 52.exe.config
+E:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.exe
+E:\Prog-Lab_II\50 - 52. Interfaces\Ejercicio 52\Ejercicio 52\Ejercicio 52\obj\Debug\Ejercicio 52.pdb

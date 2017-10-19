@@ -1,0 +1,34 @@
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\bin\Debug\Test.exe.config
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\bin\Debug\Test.exe
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\bin\Debug\Test.pdb
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\bin\Debug\CentralitaHerencia.exe
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\bin\Debug\CentralitaHerencia.pdb
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\bin\Debug\CentralitaHerencia.exe.config
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\obj\Debug\Test.exe
+J:\Prog-Lab_II\CentralTelefonica - Polimorfismo\Test\obj\Debug\Test.pdb
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\Test.exe.config
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\Test.exe
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\Test.pdb
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\CentralitaHerencia.exe
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\CentralitaHerencia.pdb
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\CentralitaHerencia.exe.config
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.exe
+G:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\Test.exe.config
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\Test.exe
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\Test.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\CentralitaHerencia.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.exe
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\obj\Debug\Test.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\Test\bin\Debug\CentralitaHerencia.dll
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Interfaces\Test\bin\Debug\Test.exe.config
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Interfaces\Test\obj\Debug\Test.exe
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Interfaces\Test\obj\Debug\Test.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\bin\Debug\Test.exe.config
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\obj\Debug\Test.exe
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\obj\Debug\Test.pdb

@@ -1,0 +1,9 @@
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\bin\Debug\Ejercicio_55_Archivos_WF.exe.config
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\bin\Debug\Ejercicio_55_Archivos_WF.exe
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\bin\Debug\Ejercicio_55_Archivos_WF.pdb
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\obj\Debug\Ejercicio_55_Archivos_WF.csprojResolveAssemblyReference.cache
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\obj\Debug\Ejercicio_55_Archivos_WF.Form1.resources
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\obj\Debug\Ejercicio_55_Archivos_WF.Properties.Resources.resources
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\obj\Debug\Ejercicio_55_Archivos_WF.csproj.GenerateResource.Cache
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\obj\Debug\Ejercicio_55_Archivos_WF.exe
+E:\C#\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\Ejercicio_55_Archivos_WF\obj\Debug\Ejercicio_55_Archivos_WF.pdb

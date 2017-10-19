@@ -1,0 +1,28 @@
+D:\Federico Dávila 2017\Nueva carpeta\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.dll
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.exe
+E:\Prog-Lab_II\Practicas 1er Parcial\Nueva carpeta\20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.pdb
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.exe
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.pdb
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.pdb
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.dll
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.pdb
+C:\Users\alumno\Desktop\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\Practicas 1er Parcial\final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+E:\Prog-Lab_II\Practicas 1er Parcial\final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.exe
+E:\Prog-Lab_II\Practicas 1er Parcial\final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe.config
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.exe
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.exe
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\PP.Test.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.dll
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\bin\Debug\Apellido.Nombre.Div.pdb
+E:\Prog-Lab_II\Practicas 1er Parcial\1er Parcial - Entrega Final\Alejandro Ben 20171005.PP.2C\PP.Test\PP.Test\obj\Debug\PP.Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\TestUnitario.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\bin\Debug\Test.pdb
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.dll
+D:\Federico\VB .Net\Visual C#\utn\Test\TestUnitario\obj\Debug\TestUnitario.pdb
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\bin\Debug\TestUnitario.dll
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\bin\Debug\TestUnitario.pdb
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\bin\Debug\Test.dll
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\bin\Debug\Test.pdb
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\obj\Debug\TestUnitario.dll
+E:\Prog-Lab_II\Excepciones y Tests\TestFallas\TestUnitario\obj\Debug\TestUnitario.pdb

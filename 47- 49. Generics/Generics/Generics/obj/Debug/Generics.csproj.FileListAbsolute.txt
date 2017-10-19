@@ -1,0 +1,6 @@
+E:\Prog-Lab_II\47- 49. Generics\Generics\Generics\bin\Debug\Generics.exe.config
+E:\Prog-Lab_II\47- 49. Generics\Generics\Generics\bin\Debug\Generics.exe
+E:\Prog-Lab_II\47- 49. Generics\Generics\Generics\bin\Debug\Generics.pdb
+E:\Prog-Lab_II\47- 49. Generics\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\47- 49. Generics\Generics\Generics\obj\Debug\Generics.exe
+E:\Prog-Lab_II\47- 49. Generics\Generics\Generics\obj\Debug\Generics.pdb

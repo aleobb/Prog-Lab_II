@@ -1,0 +1,14 @@
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\bin\Debug\PP_Lab_II_2017.exe.config
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\bin\Debug\PP_Lab_II_2017.exe
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\bin\Debug\PP_Lab_II_2017.pdb
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.exe
+G:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.pdb
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\bin\Debug\PP_Lab_II_2017.exe.config
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\bin\Debug\PP_Lab_II_2017.exe
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\bin\Debug\PP_Lab_II_2017.pdb
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.csprojResolveAssemblyReference.cache
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.csproj.CoreCompileInputs.cache
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.exe
+K:\Prog-Lab_II\PP_Lab_II_2017\PP_Lab_II_2017\obj\Debug\PP_Lab_II_2017.pdb

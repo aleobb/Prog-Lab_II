@@ -15,34 +15,36 @@ namespace Alumno_Clase_17_Lab_II_2016
             this.miAtributo.Initialize();
         }
 
-        public T Add
+        public int Count
         {
-            set
+            get
             {
-                int index = this.miAtributo.Length;
-                Array.Resize<T>(ref this.miAtributo, index + 1);
-                this.miAtributo.SetValue(value, index);
+                return this.miAtributo.Count<T>();
             }
         }
 
-        public T Remove
+        public void Add(T item)
         {
-            set
-            {
-                int size = this.miAtributo.Length;
-                int i = Array.IndexOf(this.miAtributo, value);
-                // Array.Clear(this.miAtributo, i, 1);
+            int size = this.miAtributo.Length;
+            Array.Resize<T>(ref this.miAtributo,size + 1);
+            this.miAtributo.SetValue(item, size);
+        }
 
-                Array.Copy(this.miAtributo, i + 1, this.miAtributo, i, size - i);
-                Array.Resize<T>(ref this.miAtributo, size - 1);
+        public void Remove(T item)
+        {
+            int size = this.miAtributo.Length;
+            int i = Array.IndexOf(this.miAtributo, item);
+            // Array.Clear(this.miAtributo, i, 1);
 
-                /*
-                T[] aux = new T[size-1];
-                Array.Copy(this.miAtributo, aux, i-1);
-                Array.Copy(this.miAtributo, i + 1, aux, i, size - 1);
-                this.miAtributo = aux;
-                */
-            }
+            Array.Copy(this.miAtributo, i + 1, this.miAtributo, i, size - (i-1) );
+            Array.Resize<T>(ref this.miAtributo, size - 1);
+
+            /*
+            T[] aux = new T[size-1];
+            Array.Copy(this.miAtributo, aux, i-1);
+            Array.Copy(this.miAtributo, i + 1, aux, i, size - 1);
+            this.miAtributo = aux;
+            */
         }
 
         public IEnumerator<T> GetEnumerator()
@@ -54,5 +56,6 @@ namespace Alumno_Clase_17_Lab_II_2016
         {
             throw new NotImplementedException();
         }
+
     }
 }

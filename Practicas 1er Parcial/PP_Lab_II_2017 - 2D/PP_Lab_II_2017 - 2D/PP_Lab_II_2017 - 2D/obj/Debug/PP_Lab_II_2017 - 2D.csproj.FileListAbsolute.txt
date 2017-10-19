@@ -1,0 +1,7 @@
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\bin\Debug\PP_Lab_II_2017 - 2D.exe.config
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\bin\Debug\PP_Lab_II_2017 - 2D.exe
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\bin\Debug\PP_Lab_II_2017 - 2D.pdb
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\obj\Debug\PP_Lab_II_2017 - 2D.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\obj\Debug\PP_Lab_II_2017 - 2D.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\obj\Debug\PP_Lab_II_2017 - 2D.exe
+G:\Prog-Lab_II\Practicas 1er Parcial\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\PP_Lab_II_2017 - 2D\obj\Debug\PP_Lab_II_2017 - 2D.pdb
