@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.IO;
+
 namespace CentralitaHerencia
 {
     public class Centralita:IGuardar<string>
@@ -131,13 +133,52 @@ namespace CentralitaHerencia
 
         public bool Guardar()
         {
-            //throw new NotImplementedException();
-            return true;
+            StreamWriter file = null;
+            bool retorno = false;
+            try
+            {
+                file = new StreamWriter(this.RutaDeArchivo);
+                file.WriteLine(this.ToString());
+                retorno = true;
+            }
+            catch(Exception e)
+            {
+                FallaLogException fle = new FallaLogException(" - No se pudo agregar la llamada",e);
+                throw fle;
+            }
+            finally
+            {
+                if (!object.ReferenceEquals(file, null))
+                    file.Close();
+            }
+
+            return retorno;
         }
+
+
 
         public string Leer()
         {
-            return this.RutaDeArchivo;
+            string str = "";
+            StreamReader file=null;
+
+            try
+            {
+                file = new StreamReader(this.RutaDeArchivo);
+                str = file.ReadToEnd();
+            }
+            catch(Exception e)
+            {
+                FallaLogException fle = new FallaLogException("No se pudo leer el archivo", e);
+                throw e;
+            }
+            finally
+            {
+                if(!object.ReferenceEquals(file,null))
+                    file.Close();
+            }
+
+            return str;
         }
 
         static public bool operator ==(Centralita c, Llamada llamada)
@@ -166,7 +207,10 @@ namespace CentralitaHerencia
         static public Centralita operator +(Centralita c, Llamada nuevaLlamada)
         {
             if (c != nuevaLlamada)
+            { 
                 c.AgregarLlamada(nuevaLlamada);
+                c.Guardar();
+            }
             else
                 throw new CentralitaException("La llamada ya se encuentra cargada", c.GetType().Name, "operator +"); // c.GetType().Name es para mandarle el nombre de la clase
 

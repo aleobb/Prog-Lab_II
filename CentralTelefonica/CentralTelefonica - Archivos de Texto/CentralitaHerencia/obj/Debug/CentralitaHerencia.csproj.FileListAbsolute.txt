@@ -30,3 +30,9 @@ E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\CentralitaH
 E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll.config
 E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
 E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Tests Unitarios\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\CentralitaHerencia\obj\Debug\CentralitaHerencia.dll
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll.config
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\CentralitaHerencia\bin\Debug\CentralitaHerencia.dll
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb

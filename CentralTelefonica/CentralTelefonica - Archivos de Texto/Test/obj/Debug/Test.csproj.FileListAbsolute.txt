@@ -32,3 +32,8 @@ E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Interfaces\Test\obj\Debug\T
 E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\bin\Debug\Test.exe.config
 E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\obj\Debug\Test.exe
 E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\obj\Debug\Test.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\bin\Debug\Test.exe
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\bin\Debug\Test.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\bin\Debug\CentralitaHerencia.dll
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\bin\Debug\CentralitaHerencia.pdb
+E:\Prog-Lab_II\CentralTelefonica\CentralTelefonica - Archivos de Texto\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

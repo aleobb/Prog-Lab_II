@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using System.IO;
-
-namespace IO
+namespace Ejercicio_56
 {
-    public static class ArchivoTexto
+    class Program
     {
-        public void Guardar(string ruta)
+        static void Main(string[] args)
         {
         }
-
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
-    public class Provincial : Llamada,IGuardar<T>
+    public class Provincial : Llamada,IGuardar<Provincial>
     {
         public enum Franja
         { Franja_1, Franja_2, Franja_3 }
@@ -24,7 +24,13 @@ namespace CentralitaHerencia
             get { return this.CalcularCosto(); }
         }
 
-        public string RutaDeArchivo { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public string RutaDeArchivo
+        {
+            get
+            { throw new NotImplementedException(); }
+            set
+            { throw new NotImplementedException(); }
+        }
 
         protected override string Mostrar()
         {
@@ -74,7 +80,7 @@ namespace CentralitaHerencia
             throw new NotImplementedException();
         }
 
-        public T Leer()
+        public Provincial Leer()
         {
             throw new NotImplementedException();
         }
