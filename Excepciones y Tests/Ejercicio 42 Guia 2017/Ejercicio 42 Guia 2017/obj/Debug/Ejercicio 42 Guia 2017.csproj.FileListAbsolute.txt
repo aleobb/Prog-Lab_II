@@ -4,3 +4,6 @@ E:\Prog-Lab_II\Excepciones\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\bin\Deb
 E:\Prog-Lab_II\Excepciones\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\obj\Debug\Ejercicio 42 Guia 2017.csprojResolveAssemblyReference.cache
 E:\Prog-Lab_II\Excepciones\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\obj\Debug\Ejercicio 42 Guia 2017.exe
 E:\Prog-Lab_II\Excepciones\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\obj\Debug\Ejercicio 42 Guia 2017.pdb
+E:\Prog-Lab_II\Excepciones y Tests\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\bin\Debug\Ejercicio 42 Guia 2017.exe.config
+E:\Prog-Lab_II\Excepciones y Tests\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\obj\Debug\Ejercicio 42 Guia 2017.exe
+E:\Prog-Lab_II\Excepciones y Tests\Ejercicio 42 Guia 2017\Ejercicio 42 Guia 2017\obj\Debug\Ejercicio 42 Guia 2017.pdb

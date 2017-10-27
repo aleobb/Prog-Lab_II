@@ -1,1 +1,10 @@
 E:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\bin\Debug\Ejercicio 56.exe.config
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\bin\Debug\Ejercicio 56.exe.config
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\bin\Debug\Ejercicio 56.exe
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\bin\Debug\Ejercicio 56.pdb
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\obj\Debug\Ejercicio 56.csprojResolveAssemblyReference.cache
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\obj\Debug\Ejercicio 56.csproj.CoreCompileInputs.cache
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\obj\Debug\Ejercicio 56.exe
+G:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\obj\Debug\Ejercicio 56.pdb
+E:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\obj\Debug\Ejercicio 56.exe
+E:\Prog-Lab_II\56 - 58. Serializacion\Ejercicio 56\Ejercicio 56\obj\Debug\Ejercicio 56.pdb
