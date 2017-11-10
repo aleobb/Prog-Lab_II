@@ -8,6 +8,6 @@ namespace Sanatorio
 {
     public interface IMedico
     {
-        public void IniciarAtencion(Paciente p);
+        void IniciarAtencion(Paciente p);
     }
 }

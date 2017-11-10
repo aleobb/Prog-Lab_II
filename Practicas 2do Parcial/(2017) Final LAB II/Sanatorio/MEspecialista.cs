@@ -27,6 +27,7 @@ namespace Sanatorio
 
         public void IniciarAtencion(Paciente p)
         {
+         // base.AtenderA = p;    <= esto va acá  ???????????????
             Thread threadMEspecialista = new Thread(this.Atender);
             threadMEspecialista.Start();
         }

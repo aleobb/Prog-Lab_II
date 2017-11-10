@@ -11,6 +11,11 @@ namespace Sanatorio
         protected string nombre;
         protected string apellido;
 
-        public Persona(string nombre, string apellido);
+        // public o protected ?????????????
+        protected Persona(string nombre, string apellido)
+        {
+            this.nombre = nombre;
+            this.apellido = apellido;
+        }
     }
 }

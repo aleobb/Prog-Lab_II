@@ -22,6 +22,7 @@ namespace Sanatorio
 
         public void IniciarAtencion(Paciente p)
         {
+            base.AtenderA = p;
             Thread threadMGeneral = new Thread(this.Atender);
             threadMGeneral.Start();   
         }

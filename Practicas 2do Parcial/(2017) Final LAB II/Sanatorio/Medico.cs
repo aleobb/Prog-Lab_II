@@ -21,7 +21,7 @@ namespace Sanatorio
             Medico.tiempoAleatorio = new Random();
         }
 
-        public Medico(string nombre, string apellido)
+        protected Medico(string nombre, string apellido)
             : base(nombre, apellido)
         { }
 

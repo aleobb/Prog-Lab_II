@@ -36,18 +36,20 @@ namespace _2017__Final_LAB_II
         private void FinAtencion(Paciente p, Medico m)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("Finalizó la atención de {0} por {1}!", );
+            sb.AppendFormat("Finalizó la atención de {0} por {1}!", p.ToString(), m.ToString() );
 
             MessageBox.Show(sb.ToString());
 
         }
 
         private void AtenderPacientes(IMedico iMedico)
-        { }
+        {
+             /// IMedico.AtenderA = pacientesEnEspera.Dequeue(); ?????????????
+        }
 
         private void frmFinal_Load(object sender, EventArgs e)
         {
-            mocker = new Thread()
+            mocker = new Thread();
         }
 
         private void btnGeneral_Click(object sender, EventArgs e)
