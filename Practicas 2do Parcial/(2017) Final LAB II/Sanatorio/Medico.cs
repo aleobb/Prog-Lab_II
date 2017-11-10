@@ -16,7 +16,7 @@ namespace Sanatorio
         public delegate void FinAtencionPaciente(Paciente p, Medico m);//recibe paciente y medico como parametros por lo que dice al principio el pdf acerca del manejador que va en forms
         public event FinAtencionPaciente AtencionFinalizada;
 
-        private static Medico()
+        static Medico()
         {
             Medico.tiempoAleatorio = new Random();
         }

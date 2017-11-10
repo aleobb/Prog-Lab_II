@@ -20,12 +20,26 @@ namespace _2017__Final_LAB_II
         private Thread mocker;
         private Queue<Paciente> pacientesEnEspera;
 
+
         public frmFinal()
         {
             InitializeComponent();
 
             this.medicoGeneral = new MGeneral("Luis", "Salinas");
-            this.medicoEspecialista = new MEspecialista("Jorge", "Iglesias",MEspecialista.Especialidad.Traumatologo);
+            this.medicoEspecialista = new MEspecialista("Jorge", "Iglesias", MEspecialista.Especialidad.Traumatologo);
+
+            this.medicoEspecialista.AtencionFinalizada += FinAtencion;
+            this.medicoGeneral.AtencionFinalizada += FinAtencion;
+
+        }
+
+        private void FinAtencion(Paciente p, Medico m)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat("Finalizó la atención de {0} por {1}!", );
+
+            MessageBox.Show(sb.ToString());
+
         }
 
         private void AtenderPacientes(IMedico iMedico)
@@ -33,9 +47,34 @@ namespace _2017__Final_LAB_II
 
         private void frmFinal_Load(object sender, EventArgs e)
         {
+            mocker = new Thread()
+        }
 
+        private void btnGeneral_Click(object sender, EventArgs e)
+        {
+            this.AtenderPacientes(this.medicoGeneral); 
+            //**********
+        }
+
+        private void btnEspecialista_Click(object sender, EventArgs e)
+        {
+            this.AtenderPacientes(this.medicoEspecialista);
+            //************
         }
 
 
+        private void frmFinal_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (!object.ReferenceEquals(this.mocker, null) && this.mocker.IsAlive)
+                this.mocker.Abort();
+        }
+
+        private void MockPacientes()
+        {
+            /******
+
+
+            Thread.Sleep(5000);
+        }
     }
 }

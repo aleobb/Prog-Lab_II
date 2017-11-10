@@ -19,7 +19,7 @@ namespace Sanatorio
             }
         }
 
-        private static Paciente()
+        static Paciente()
         {
             Paciente.ultimoTurnoDado = 0;
         }

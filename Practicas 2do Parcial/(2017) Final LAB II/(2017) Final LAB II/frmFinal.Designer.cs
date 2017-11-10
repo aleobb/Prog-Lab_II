@@ -28,37 +28,40 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnGeneral = new System.Windows.Forms.Button();
+            this.btnEspecialista = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // button1
+            // btnGeneral
             // 
-            this.button1.Location = new System.Drawing.Point(12, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(260, 71);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Atender Medico General";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnGeneral.Location = new System.Drawing.Point(12, 12);
+            this.btnGeneral.Name = "btnGeneral";
+            this.btnGeneral.Size = new System.Drawing.Size(260, 71);
+            this.btnGeneral.TabIndex = 0;
+            this.btnGeneral.Text = "Atender Medico General";
+            this.btnGeneral.UseVisualStyleBackColor = true;
+            this.btnGeneral.Click += new System.EventHandler(this.btnGeneral_Click);
             // 
-            // button2
+            // btnEspecialista
             // 
-            this.button2.Location = new System.Drawing.Point(12, 96);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(260, 71);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Atender Medico Especialista";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnEspecialista.Location = new System.Drawing.Point(12, 96);
+            this.btnEspecialista.Name = "btnEspecialista";
+            this.btnEspecialista.Size = new System.Drawing.Size(260, 71);
+            this.btnEspecialista.TabIndex = 1;
+            this.btnEspecialista.Text = "Atender Medico Especialista";
+            this.btnEspecialista.UseVisualStyleBackColor = true;
+            this.btnEspecialista.Click += new System.EventHandler(this.btnEspecialista_Click);
             // 
-            // Form1
+            // frmFinal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 178);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Controls.Add(this.btnEspecialista);
+            this.Controls.Add(this.btnGeneral);
+            this.Name = "frmFinal";
+            this.Text = "frmFinal";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmFinal_FormClosing);
             this.Load += new System.EventHandler(this.frmFinal_Load);
             this.ResumeLayout(false);
 
@@ -66,8 +69,8 @@
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnGeneral;
+        private System.Windows.Forms.Button btnEspecialista;
     }
 }
 
