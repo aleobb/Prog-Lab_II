@@ -9,9 +9,8 @@ namespace Ejercicio_62
 {
     public sealed class Temporizador
     {
+        public delegate void encargadoTiempo(object sender, EventArgs e); //primero siempre se declara el delegado
         public event encargadoTiempo EventoTiempo;
-
-        public delegate void encargadoTiempo(object sender, EventArgs e);
 
         private Thread hilo;
         private int intervalo;

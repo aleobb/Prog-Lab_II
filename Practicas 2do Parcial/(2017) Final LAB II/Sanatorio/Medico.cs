@@ -36,7 +36,10 @@ namespace Sanatorio
         protected abstract void Atender();
 
         public virtual string EstaAtendiendoA
-        { get; }
+        {
+            get
+            { return this.pacienteActual.ToString(); }
+        }
 
         protected void FinalizarAtencion()
         {

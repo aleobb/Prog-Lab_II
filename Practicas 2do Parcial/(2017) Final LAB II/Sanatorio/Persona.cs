@@ -17,5 +17,10 @@ namespace Sanatorio
             this.nombre = nombre;
             this.apellido = apellido;
         }
+
+        public override string ToString()
+        {
+            return this.nombre+" "+this.apellido;
+        }
     }
 }

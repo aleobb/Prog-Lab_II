@@ -14,7 +14,7 @@ namespace Ejercicio_62
 {
     public partial class Form1 : Form
     {
-        Thread t=null;
+        //Thread t=null;
         Temporizador temp=null;
 
         public Form1()

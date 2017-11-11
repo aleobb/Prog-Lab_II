@@ -22,10 +22,14 @@ namespace Sanatorio
 
         public void IniciarAtencion(Paciente p)
         {
-            base.AtenderA = p;
+            base.AtenderA = p;   // <= esto va acá  ???????????????
             Thread threadMGeneral = new Thread(this.Atender);
             threadMGeneral.Start();   
         }
 
+        public override string ToString()
+        {
+            return "Medico General: " + base.ToString();
+        }
     }
 }

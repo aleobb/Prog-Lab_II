@@ -31,12 +31,16 @@ namespace _2017__Final_LAB_II
             this.medicoEspecialista.AtencionFinalizada += FinAtencion;
             this.medicoGeneral.AtencionFinalizada += FinAtencion;
 
+            this.pacientesEnEspera = new Queue<Paciente>();
         }
 
         private void FinAtencion(Paciente p, Medico m)
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("Finalizó la atención de {0} por {1}!", p.ToString(), m.ToString() );
+            if (!object.ReferenceEquals(p, null) && !object.ReferenceEquals(m, null))
+                sb.AppendFormat("Finalizó la atención de {0} por {1}!", p.ToString(), m.ToString());
+            else
+                sb.AppendFormat("no se puedo atender");
 
             MessageBox.Show(sb.ToString());
 
@@ -44,12 +48,20 @@ namespace _2017__Final_LAB_II
 
         private void AtenderPacientes(IMedico iMedico)
         {
-             /// IMedico.AtenderA = pacientesEnEspera.Dequeue(); ?????????????
+            //((Medico)iMedico).AtenderA = pacientesEnEspera.Dequeue(); <= lo agregue en iniciar atencion
+            if(this.pacientesEnEspera.Count>0)
+                iMedico.IniciarAtencion(this.pacientesEnEspera.Dequeue());
+            else
+                MessageBox.Show("No hay pacientes que atender");
         }
+
+    //    private void MensajeNoHayPacientes(string s)
+    //    { }
 
         private void frmFinal_Load(object sender, EventArgs e)
         {
-            mocker = new Thread();
+            mocker = new Thread(this.MockPacientes);
+            mocker.Start();
         }
 
         private void btnGeneral_Click(object sender, EventArgs e)
@@ -73,10 +85,14 @@ namespace _2017__Final_LAB_II
 
         private void MockPacientes()
         {
-            /******
-
-
-            Thread.Sleep(5000);
+            for (int i = 0; i < 1000; i++)
+            {
+                Paciente p = new Paciente("paciente " + (i + 1), "lastname");
+                this.pacientesEnEspera.Enqueue(p);
+                MessageBox.Show(p.ToString());
+                Thread.Sleep(5000);
+            }
+            
         }
     }
 }

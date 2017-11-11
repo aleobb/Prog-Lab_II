@@ -25,11 +25,18 @@ namespace Sanatorio
             base.FinalizarAtencion();
         }
 
+
+
         public void IniciarAtencion(Paciente p)
         {
-         // base.AtenderA = p;    <= esto va acá  ???????????????
+            base.AtenderA = p;   // <= esto va acá  ???????????????
             Thread threadMEspecialista = new Thread(this.Atender);
             threadMEspecialista.Start();
+        }
+
+        public override string ToString()
+        {
+            return "Medico Especialista: "+ base.ToString();
         }
     }
 }
