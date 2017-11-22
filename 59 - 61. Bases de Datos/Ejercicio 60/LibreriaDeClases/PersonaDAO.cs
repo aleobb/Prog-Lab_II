@@ -16,6 +16,7 @@ namespace LibreriaDeClases
         private static SqlCommand comando;
         private static string connectionStr = "Data Source=LAB3PC10\\sqlexpress;Initial Catalog=MiBaseDatosAOB;Integrated Security=True";
    //     private static string connectionStr = "Data Source=ALE-HP-TOUCH\\SQLEXPRESS;Initial Catalog=MiBaseDatosAOB;Integrated Security=True";
+        
 
 
         public PersonaDAO()
@@ -26,6 +27,7 @@ namespace LibreriaDeClases
             conexion = new SqlConnection(connectionStr);
             comando = new SqlCommand();
             comando.CommandType = CommandType.Text;
+            comando.Connection = conexion;
         }
 
 

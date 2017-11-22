@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 using System.Threading;
 
+using System.IO;
+
 namespace Ejercicio_63
 {
     class Program
@@ -16,8 +18,8 @@ namespace Ejercicio_63
 
             List<string> listaClientes = new List<string>();
 
-            for(int i =1; i<10; i++)
-                listaClientes.Add("cliente "+i.ToString());
+            for (int i = 1; i < 10; i++)
+                listaClientes.Add("cliente " + i.ToString());
 
             n.Clientes = listaClientes;
 
@@ -29,7 +31,7 @@ namespace Ejercicio_63
 
             Thread t3 = new Thread(n.Caja2.AtenderClientes);
             t3.Name = "Caja2";
-            
+
             t1.Start();
             t1.Join();
             t2.Start();

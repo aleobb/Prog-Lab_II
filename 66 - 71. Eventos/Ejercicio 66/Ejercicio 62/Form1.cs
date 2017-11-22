@@ -39,6 +39,7 @@ namespace Ejercicio_62
         {
             temp = new Temporizador();
             temp.EventoTiempo += Temp_EventoTiempo;
+            temp.miEvento += Temp_miEvento;
 
          //   t = new Thread(actualizarHora);
          //   t.Start();
@@ -46,6 +47,11 @@ namespace Ejercicio_62
             //contarUnSegundo();
         }
 
+        private int Temp_miEvento(string str)
+        {
+            MessageBox.Show(str);
+            return 1;
+        }
 
         private void Temp_EventoTiempo(object sender, EventArgs e)
         {

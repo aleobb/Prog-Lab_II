@@ -12,6 +12,9 @@ namespace Ejercicio_62
         public delegate void encargadoTiempo(object sender, EventArgs e); //primero siempre se declara el delegado
         public event encargadoTiempo EventoTiempo;
 
+        public delegate int miDelegado(string str);
+        public event miDelegado miEvento;
+
         private Thread hilo;
         private int intervalo;
 
@@ -63,6 +66,7 @@ namespace Ejercicio_62
             {
                 Thread.Sleep(this.intervalo);
                 this.EventoTiempo(this, new EventArgs());
+                this.miEvento("hola mundo");
             }
         }
 
