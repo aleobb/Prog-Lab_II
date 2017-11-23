@@ -20,3 +20,8 @@ foreach (Thread thread in this._corredoresActivos)
     catch (Exception ex)
     {  MessageBox.Show(ex.Message);  }             
 }
+
+
+public class NoSeGuardoException : Exception
+{
+  public NoSeGuardoException(Exception innerException) : base("El archivo no pudo ser guardado", innerException)
