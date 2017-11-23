@@ -26,6 +26,7 @@ namespace Entidades
             this.id = id;
             this.callback = callback;
             this.hilo = new Thread(Ejecutar);
+            this.hilo.Start();  // Hay que hacer el hilo start aca ?? => SI!!
         }
 
         private void Ejecutar()

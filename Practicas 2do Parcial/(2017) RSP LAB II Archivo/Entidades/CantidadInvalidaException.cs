@@ -14,9 +14,7 @@ namespace Entidades
 {
     public class CantidadInvalidaException:Exception
     {
-        public CantidadInvalidaException()
-        {
-            MessageBox.Show("Error al cargar un nuevo hilo");
-        }
+        public CantidadInvalidaException():base("La cantidad de hilos indicada no es valida!")
+        { }
     }
 }

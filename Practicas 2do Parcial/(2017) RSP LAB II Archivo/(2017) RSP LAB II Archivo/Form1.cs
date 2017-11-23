@@ -24,6 +24,7 @@ namespace _2017__RSP_LAB_II_Archivo
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Esto lo ponemos aca o en el constructor debajo de InitializeComponent ?? => puede ir en cualquiera de los 2 lados
             hilos = new LosHilos();
             hilos.AvisoFin += MostrarMensajeFin;
         }
@@ -33,11 +34,10 @@ namespace _2017__RSP_LAB_II_Archivo
             try
             { 
                 hilos += (new Random()).Next(0,5);
-                
             }
-            catch
+            catch(CantidadInvalidaException ex)
             {
-                MessageBox.Show("Error al cargar un nuevo hilo");
+                MessageBox.Show(ex.Message);
             }
         }
 

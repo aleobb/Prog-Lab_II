@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.Threading;
+
 using Interfaces;
 using System.IO;
 
@@ -28,7 +30,7 @@ namespace Entidades
         {
             get
             {
-                string datos;
+                string datos="";
                 try
                 {
                     using (StreamReader file = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "bitacora.txt"))
@@ -48,7 +50,7 @@ namespace Entidades
             {
                 try
                 {
-                    using (StreamWriter file = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "bitacora.txt", false))
+                    using (StreamWriter file = new StreamWriter(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "bitacora.txt", true))
                     {
                         file.WriteLine(value);
                         file.Close();
@@ -63,14 +65,22 @@ namespace Entidades
 
         public void RespuestaHilo(int id)
         {
-            Bitacora = string.Format("Terminó el hilo {0}.", id);
+        //  Thread.CurrentThread.Abort();  <= HAY QUE HACER ESTO ACA?????????????
+            
+            string mensaje = string.Format("Terminó el hilo {0}.", id);
+            this.Bitacora = mensaje;
+            this.AvisoFin(mensaje);
+
+         // O hay que hacer esto?:
+         // LosHilos.misHilos.RemoveAt(id); <= No matar los hilos (no se matan)
         }
 
-        private LosHilos AgregarHilo(LosHilos hilos)
+        public static LosHilos AgregarHilo(LosHilos hilos)
         {
+            // QUE CARAJOS HACEMOS ACA!?!?!??!
             LosHilos.id += 1;
-            LosHilos.misHilos.Add(new InfoHilo(id, this));
-            hilos.RespuestaHilo(id);
+            LosHilos.misHilos.Add(new InfoHilo(id, hilos));
+            // hilos.RespuestaHilo(id); <=  esto lo hace el callback
             return hilos;
         }
 
@@ -81,7 +91,7 @@ namespace Entidades
             else
             {
                 for (int i = 0; i < cantidad; i++)
-                    hilos.AgregarHilo(hilos);
+                    LosHilos.AgregarHilo(hilos);
             }
             return hilos;
         }
