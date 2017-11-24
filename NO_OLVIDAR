@@ -1,0 +1,27 @@
+://Para verificar si no es null previamente
+
+if (!object.ReferenceEquals(p, null) && !object.ReferenceEquals(m, null))
+
+if (!object.ReferenceEquals(mocker,null) && mocker.IsAlive)
+      mocker.Abort();
+        
+Thread.Sleep(5000);
+Thread.Sleep(Medico.tiempoAleatorio.Next(1500, 2200));
+
+
+set
+{  if (value < 0 || value > 10) ... }
+
+
+foreach (Thread thread in this._corredoresActivos)
+{
+    try
+    {  thread.Start();  }
+    catch (Exception ex)
+    {  MessageBox.Show(ex.Message);  }             
+}
+
+
+public class NoSeGuardoException : Exception
+{
+  public NoSeGuardoException(Exception innerException) : base("El archivo no pudo ser guardado", innerException)
