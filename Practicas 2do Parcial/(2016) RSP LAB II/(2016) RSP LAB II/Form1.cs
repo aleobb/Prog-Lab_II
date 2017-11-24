@@ -51,23 +51,35 @@ namespace _2016__RSP_LAB_II
 
         void HayGanador(Corredor corredor)
         {
+            
+            foreach (Thread t in this.corredoresActivos)
+                t.Abort();
+            this.corredoresActivos.Clear();
+
+            MessageBox.Show("HAY UN GANADOR: " + corredor.ToString());
+            LimpiarCarriles();
+
             // Conviene hacerlo con un thread ???????????
             // Thread guardar = new Thread( new ParameterizedThreadStart( corredor.Guardar ) );
             // guardar.Start("ganadores.txt");
             corredor.Guardar("ganadores.txt");
-            foreach (Thread t in this.corredoresActivos)
-                t.Abort();
-            this.corredoresActivos.Clear();
+
         }
 
         private void btnCorrer_Click(object sender, EventArgs e)
         {
             corredores.ElementAt(0).Corriendo += PersonaCorriendo;
-            corredores.ElementAt(1).Corriendo += PersonaCorriendo; 
+            corredores.ElementAt(1).Corriendo += PersonaCorriendo;
 
-            
 
-            Thread t = new Thread(PersonaCorriendo);
+
+            //Thread t = new Thread(PersonaCorriendo);
+            Thread t1 = new Thread(corredores.ElementAt(0).Correr);
+            this.corredoresActivos.Add(t1);
+            Thread t2 = new Thread(corredores.ElementAt(1).Correr);
+            this.corredoresActivos.Add(t2);
+            foreach (Thread t in this.corredoresActivos)
+                t.Start();
 
         }
 
