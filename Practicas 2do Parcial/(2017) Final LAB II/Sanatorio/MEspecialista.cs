@@ -19,19 +19,18 @@ namespace Sanatorio
         {
             this.especialidad = e;
         }
+
+        public void IniciarAtencion(Paciente p)
+        {
+            base.AtenderA = p;  
+            Thread threadMEspecialista = new Thread(this.Atender);
+            threadMEspecialista.Start();
+        }
+
         protected override void Atender()
         {
             Thread.Sleep(Medico.tiempoAleatorio.Next(5000, 10000));
             base.FinalizarAtencion();
-        }
-
-
-
-        public void IniciarAtencion(Paciente p)
-        {
-            base.AtenderA = p;   // <= esto va acá  ???????????????
-            Thread threadMEspecialista = new Thread(this.Atender);
-            threadMEspecialista.Start();
         }
 
         public override string ToString()

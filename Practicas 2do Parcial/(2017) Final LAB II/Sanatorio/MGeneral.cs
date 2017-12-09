@@ -14,17 +14,17 @@ namespace Sanatorio
             : base(nombre, apellido)
         { }
 
+        public void IniciarAtencion(Paciente p)
+        {
+            base.AtenderA = p;   
+            Thread threadMGeneral = new Thread(this.Atender);
+            threadMGeneral.Start();
+        }
+
         protected override void Atender()
         {
             Thread.Sleep(Medico.tiempoAleatorio.Next(1500, 2200));
             base.FinalizarAtencion();
-        }
-
-        public void IniciarAtencion(Paciente p)
-        {
-            base.AtenderA = p;   // <= esto va acá  ???????????????
-            Thread threadMGeneral = new Thread(this.Atender);
-            threadMGeneral.Start();   
         }
 
         public override string ToString()

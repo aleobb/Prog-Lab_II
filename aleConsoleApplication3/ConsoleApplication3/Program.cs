@@ -16,6 +16,9 @@ namespace ConsoleApplication3
           
 
             Console.Clear();
+            Console.BackgroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Title = "Fuck you";
             for (int i = 0; i < 5; i++)
             {
                 Console.Write("Ingrese el numero {0}: ", i+1);
